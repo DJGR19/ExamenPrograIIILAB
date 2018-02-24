@@ -1,0 +1,34 @@
+﻿  Producto.cpp
+c:\users\florentino garcia\desktop\universidad\unitec\lab. de programación iii\examenparciali\examenparciali\producto.h(22): error C2061: error de sintaxis: identificador 'string'
+c:\users\florentino garcia\desktop\universidad\unitec\lab. de programación iii\examenparciali\examenparciali\producto.h(30): error C2061: error de sintaxis: identificador 'string'
+c:\users\florentino garcia\desktop\universidad\unitec\lab. de programación iii\examenparciali\examenparciali\producto.h(36): error C3646: 'nombre': especificador de invalidación desconocido
+c:\users\florentino garcia\desktop\universidad\unitec\lab. de programación iii\examenparciali\examenparciali\producto.h(36): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+c:\users\florentino garcia\desktop\universidad\unitec\lab. de programación iii\examenparciali\examenparciali\producto.cpp(8): error C2614: 'Producto': inicialización de miembro no válida: 'nombre' no es una base o miembro
+c:\users\florentino garcia\desktop\universidad\unitec\lab. de programación iii\examenparciali\examenparciali\producto.cpp(52): warning C4244: 'return': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\florentino garcia\desktop\universidad\unitec\lab. de programación iii\examenparciali\examenparciali\producto.cpp(104): warning C4474: "printf": se pasaron demasiados argumentos para la cadena de formato
+  c:\users\florentino garcia\desktop\universidad\unitec\lab. de programación iii\examenparciali\examenparciali\producto.cpp(104): note: los marcadores de posición y sus parámetros esperan 0 argumentos variádicos, pero se proporcionaron 1
+  ListaProducto.cpp
+c:\users\florentino garcia\desktop\universidad\unitec\lab. de programación iii\examenparciali\examenparciali\producto.h(22): error C2061: error de sintaxis: identificador 'string'
+c:\users\florentino garcia\desktop\universidad\unitec\lab. de programación iii\examenparciali\examenparciali\producto.h(30): error C2061: error de sintaxis: identificador 'string'
+c:\users\florentino garcia\desktop\universidad\unitec\lab. de programación iii\examenparciali\examenparciali\producto.h(36): error C3646: 'nombre': especificador de invalidación desconocido
+c:\users\florentino garcia\desktop\universidad\unitec\lab. de programación iii\examenparciali\examenparciali\producto.h(36): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+c:\users\florentino garcia\desktop\universidad\unitec\lab. de programación iii\examenparciali\examenparciali\listaproducto.h(30): error C2143: error de sintaxis: falta ';' delante de '}'
+  ListaFactura.cpp
+c:\users\florentino garcia\desktop\universidad\unitec\lab. de programación iii\examenparciali\examenparciali\producto.h(22): error C2061: error de sintaxis: identificador 'string'
+c:\users\florentino garcia\desktop\universidad\unitec\lab. de programación iii\examenparciali\examenparciali\producto.h(30): error C2061: error de sintaxis: identificador 'string'
+c:\users\florentino garcia\desktop\universidad\unitec\lab. de programación iii\examenparciali\examenparciali\producto.h(36): error C3646: 'nombre': especificador de invalidación desconocido
+c:\users\florentino garcia\desktop\universidad\unitec\lab. de programación iii\examenparciali\examenparciali\producto.h(36): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+c:\users\florentino garcia\desktop\universidad\unitec\lab. de programación iii\examenparciali\examenparciali\listaproducto.h(30): error C2143: error de sintaxis: falta ';' delante de '}'
+c:\users\florentino garcia\desktop\universidad\unitec\lab. de programación iii\examenparciali\examenparciali\factura.h(23): error C3646: 'nombrecustom': especificador de invalidación desconocido
+c:\users\florentino garcia\desktop\universidad\unitec\lab. de programación iii\examenparciali\examenparciali\factura.h(23): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  Factura.cpp
+c:\users\florentino garcia\desktop\universidad\unitec\lab. de programación iii\examenparciali\examenparciali\producto.h(22): error C2061: error de sintaxis: identificador 'string'
+c:\users\florentino garcia\desktop\universidad\unitec\lab. de programación iii\examenparciali\examenparciali\producto.h(30): error C2061: error de sintaxis: identificador 'string'
+c:\users\florentino garcia\desktop\universidad\unitec\lab. de programación iii\examenparciali\examenparciali\producto.h(36): error C3646: 'nombre': especificador de invalidación desconocido
+c:\users\florentino garcia\desktop\universidad\unitec\lab. de programación iii\examenparciali\examenparciali\producto.h(36): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+c:\users\florentino garcia\desktop\universidad\unitec\lab. de programación iii\examenparciali\examenparciali\listaproducto.h(30): error C2143: error de sintaxis: falta ';' delante de '}'
+c:\users\florentino garcia\desktop\universidad\unitec\lab. de programación iii\examenparciali\examenparciali\factura.h(23): error C3646: 'nombrecustom': especificador de invalidación desconocido
+c:\users\florentino garcia\desktop\universidad\unitec\lab. de programación iii\examenparciali\examenparciali\factura.h(23): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+c:\users\florentino garcia\desktop\universidad\unitec\lab. de programación iii\examenparciali\examenparciali\factura.cpp(45): error C2371: 'lo': nueva definición; tipos básicos distintos
+  c:\users\florentino garcia\desktop\universidad\unitec\lab. de programación iii\examenparciali\examenparciali\factura.cpp(40): note: vea la declaración de 'lo'
+  Generando código...
